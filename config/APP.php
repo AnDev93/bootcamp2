@@ -3,19 +3,17 @@
 	/*----------  
 	Ruta o dominio del servidor
 	----------*/
-	const APP_URL="http://bootcamp-main.loc/";
+	const APP_URL="http://localhost/bootcamp2/";
 
 	/*----------  
 	Nombre de la empresa o compañia
 	----------*/
 	const APP_NAME="BOOTCAMP2";
 
-
 	/*----------  Idioma - Language
 	Español -> es 
 	----------*/
 	const LANG="es";
-
 	/*----------  
 	Datos del correo empresa o compañia
 	----------*/
@@ -26,10 +24,8 @@
 	const APP_COUNTRY="";
 	const APP_ADDRESS="";
 
-
 	/*----------  Marcador de campos obligatorios  ----------*/
 	const APP_FIELD_OBLIGATORY='&nbsp;  &nbsp;';
-
 
 	/*----------  Zona horaria  ----------*/
 	date_default_timezone_set("America/Caracas");
